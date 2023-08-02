@@ -1,0 +1,6 @@
+                          ///////// NOTES ////////////// 
+
+
+1. 'let' is similar to 'var', means we can declare variables without intializing them and we can even change the value of the variable using'let'.
+2. the only diff. b/w 'let' and 'var' is of scope, 'let' is block scoped and 'var' is function scoped.
+3. 'const' is a variable whose value cannot be changed later, so we cannot declare a variable without initialization using 'Const'.
